@@ -1,0 +1,17 @@
+以后写文章，在头部加上 categories：
+---
+title: "我的第一篇软件笔记"
+date: 2026-10-06
+draft: false
+categories: ["软件分类可改"]
+---
+
+内容……
+
+
+
+推送更新代码：
+
+git add .
+git commit -m "标注可改添加顶部导航菜单"
+git push
