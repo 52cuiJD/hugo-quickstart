@@ -1,5 +1,5 @@
 baseURL: "https://aut.fxz.es/"
-languageCode: "zh-cn"
+llocale: "zh-cn"
 title: "AUto-cui"
 theme: "paper"
 
