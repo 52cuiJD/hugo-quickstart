@@ -2,3 +2,5 @@ baseURL: "https://autocn.netlify.app/"
 languageCode: "zh-cn"
 title: "AUto-cui"
 theme: "enchanted-lowkey"
+params:
+  favicon: "img/favicon.png"
