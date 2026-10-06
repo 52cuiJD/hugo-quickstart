@@ -1,4 +1,4 @@
-baseURL: "http://hugo-quickstart-template.netlify.com"
-languageCode: "en-us"
-title: "Netlify + Hugo Quickstart"
-theme: "netlify-basic"
+baseURL: "https://52cuiJD.github.io/hugo-quickstart/"
+languageCode: "zh-cn"
+title: "AUto-cui"
+theme: "enchanted-lowkey"
