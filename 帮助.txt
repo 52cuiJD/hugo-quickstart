@@ -13,5 +13,5 @@ categories: ["软件分类可改"]
 推送更新代码：
 
 git add .
-git commit -m "标注可改添加顶部导航菜单"
+git commit -m "个人说明"
 git push
