@@ -1,10 +1,10 @@
 baseURL: "https://aut.fxz.es/"
-llocale: "zh-cn"
+locale: "zh-cn"
 title: "AUto-cui"
 theme: "paper"
 
 params:
-  color: "linen"          # 可选：linen, wheat, gray, light
-  name: "AUto-cui"        # 显示在首页的名字
-  bio: "你的简介,dajiahhhad"          # 显示在首页的简介
-  avatar: "/themes/paper/static/favicon.ico"  # Gravatar 邮箱或图片链接
+  color: "linen"
+  name: "AUto-cui"
+  bio: "你的简介,dajiahhhad"
+  avatar: "/images/avatar.jpg"
