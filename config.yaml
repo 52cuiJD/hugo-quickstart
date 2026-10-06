@@ -1,7 +1,10 @@
 baseURL: "https://autocn.netlify.app/"
 languageCode: "zh-cn"
 title: "AUto-cui"
-theme: "enchanted-lowkey"
+theme: "paper"
 
 params:
-  favicon: "img/favicon.png"
+  color: "linen"          # 可选：linen, wheat, gray, light
+  name: "AUto-cui"        # 显示在首页的名字
+  bio: "你的简介"          # 显示在首页的简介
+  avatar: "你的邮箱或头像图片URL"  # Gravatar 邮箱或图片链接
