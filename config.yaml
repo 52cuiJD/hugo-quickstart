@@ -27,3 +27,7 @@ menu:
       name: "技术"
       url: "/categories/技术/"
       weight: 4
+
+      taxonomies:
+  category: categories
+  tag: tags
