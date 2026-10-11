@@ -1,6 +1,6 @@
 ---
 title: "你好，世界"
-date: 2026-10-06
+date: 2022-10-06
 draft: false
 tags: ["随笔"]
 categories: ["生活"]
