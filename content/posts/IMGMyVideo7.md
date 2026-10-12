@@ -17,16 +17,16 @@ categories: ["软件"]
 <table>
 <tr>
 <td width="25%" valign="top">
-![批量处理](https://img.shields.io/badge/⚡-批量处理-57B318?style=flat-square)
+## 🛠️ 批量处理
 </td>
 <td width="25%" valign="top">
-![三种引擎](https://img.shields.io/badge/🎬-三种引擎-57B318?style=flat-square)
+## 🛠️ 三种引擎
 </td>
 <td width="25%" valign="top">
-![智能配音](https://img.shields.io/badge/🎙️-智能配音-57B318?style=flat-square)
+## 🛠️ 智能配音
 </td>
 <td width="25%" valign="top">
-![本地运行](https://img.shields.io/badge/💻-本地运行-57B318?style=flat-square)
+## 🛠️ 本地运行
 </td>
 </tr>
 </table>
@@ -34,7 +34,7 @@ categories: ["软件"]
 
 ### 🎁 免费下载 · 免费试用 3 天 · 满意再付款
 
-**[⬇️ 立即下载](#-免费下载免费试用-3-天)**
+**📥 <a href="https://ynu3nr8.s.gy/imgmyvideo" target="_blank" rel="noopener">点此免费下载 →</a>**
 
 </div>
 
