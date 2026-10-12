@@ -12,13 +12,13 @@ categories: ["软件"]
 
 **核心亮点**：⚡ 批量处理 · 🎬 三种引擎 · 🎙️ 智能配音 · 💻 本地运行
 
-> 🎁 **[免费下载，免费试用 3 天](https://ynu3nr8.s.gy/imgmyvideo)** · 试用满意再付款
+> 🎁 **<a href="https://ynu3nr8.s.gy/imgmyvideo" target="_blank" rel="noopener">免费下载，免费试用 3 天</a>** · 试用满意再付款
 
 ---
 
 ## 两大核心功能
 
-### 图片批量转视频
+### 图片转视频
 
 每个子文件夹自动变成一个视频，放进去、点开始，剩下的交给程序。
 
@@ -92,7 +92,7 @@ categories: ["软件"]
 - ✅ 无需绑定任何支付信息
 - ✅ 试用期结束后可随时购买继续使用
 
-**📥 [点此免费下载 →](https://ynu3nr8.s.gy/imgmyvideo)**
+**📥 <a href="https://ynu3nr8.s.gy/imgmyvideo" target="_blank" rel="noopener">点此免费下载 →</a>**
 
 ---
 
