@@ -14,12 +14,22 @@ categories: ["软件"]
 *不用剪辑经验 · 不用素材整理 · 不用逐条操作*
 
 <br>
-
+<table>
+<tr>
+<td width="25%" valign="top">
 ![批量处理](https://img.shields.io/badge/⚡-批量处理-57B318?style=flat-square)
+</td>
+<td width="25%" valign="top">
 ![三种引擎](https://img.shields.io/badge/🎬-三种引擎-57B318?style=flat-square)
+</td>
+<td width="25%" valign="top">
 ![智能配音](https://img.shields.io/badge/🎙️-智能配音-57B318?style=flat-square)
+</td>
+<td width="25%" valign="top">
 ![本地运行](https://img.shields.io/badge/💻-本地运行-57B318?style=flat-square)
-
+</td>
+</tr>
+</table>
 <br>
 
 ### 🎁 免费下载 · 免费试用 3 天 · 满意再付款
