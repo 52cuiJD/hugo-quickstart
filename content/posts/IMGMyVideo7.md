@@ -17,16 +17,16 @@ categories: ["软件"]
 <table>
 <tr>
 <td width="25%" valign="top">
-## 🛠️ 批量处理
+ 🛠️ 批量处理
 </td>
 <td width="25%" valign="top">
-## 🛠️ 三种引擎
+ 🛠️ 三种引擎
 </td>
 <td width="25%" valign="top">
-## 🛠️ 智能配音
+ 🛠️ 智能配音
 </td>
 <td width="25%" valign="top">
-## 🛠️ 本地运行
+ 🛠️ 本地运行
 </td>
 </tr>
 </table>
@@ -104,7 +104,7 @@ categories: ["软件"]
 | ✅ 全功能开放 | ✅ 无需绑定支付 | ✅ 到期可续 |
 |:---:|:---:|:---:|
 
-**📥 下载地址**：[点击下载](https://ynu3nr8.s.gy/imgmyvideo)
+**📥 <a href="https://ynu3nr8.s.gy/imgmyvideo" target="_blank" rel="noopener">点此免费下载 →</a>**
 
 </div>
 
@@ -216,7 +216,7 @@ JPG、PNG 都支持，其它常见格式也基本兼容。尺寸不限，程序�
 
 <br>
 
-### 微信：`dramaroad`
+### 客服VX：dramaroad
 
 <br>
 
