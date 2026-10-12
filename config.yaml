@@ -26,4 +26,9 @@ menu:
     - identifier: "tech"
       name: "技术"
       url: "/categories/技术/"
-      weight: 4     
+      weight: 4   
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
