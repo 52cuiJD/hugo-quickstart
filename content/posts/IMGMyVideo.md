@@ -1,6 +1,6 @@
 ---
-title: "图片批量转视频工具"
-date: 2026-10-12
+title: "图片批量转视频工具v2.9版"
+date: 2025-10-12
 draft: false
 tags: ["工具"]
 categories: ["软件"]
