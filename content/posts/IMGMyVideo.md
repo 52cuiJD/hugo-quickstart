@@ -34,7 +34,7 @@ categories: ["软件"]
 
 ### 🎁 免费下载 · 免费试用 3 天 · 满意再付款
 
-**📥 <a href="https://ynu3nr8.s.gy/imgmyvideo" target="_blank" rel="noopener">点此免费下载 →</a>**
+**📥 <a href="http://imgmyvideo.fxz.es" target="_blank" rel="noopener">点此免费下载 →</a>**
 
 </div>
 
@@ -104,7 +104,7 @@ categories: ["软件"]
 | ✅ 全功能开放 | ✅ 无需绑定支付 | ✅ 到期可续 |
 |:---:|:---:|:---:|
 
-**📥 <a href="https://ynu3nr8.s.gy/imgmyvideo" target="_blank" rel="noopener">点此免费下载 →</a>**
+**📥 <a href="http://imgmyvideo.fxz.es" target="_blank" rel="noopener">点此免费下载 →</a>**
 
 </div>
 
