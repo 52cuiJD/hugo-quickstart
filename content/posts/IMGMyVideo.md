@@ -1,5 +1,5 @@
 ---
-title: "图片批量转视频工具v3.1版"
+title: "图片批量转视频工具"
 date: 2026-07-12
 draft: false
 tags: ["工具"]
